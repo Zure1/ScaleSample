@@ -10,7 +10,7 @@ And this if what I want to achieve (fill the right column with a scaled down vie
 
 ![](https://i.imgur.com/OXURsE0.png)
 
-Now Labels might be a bad example for this, because one could just not use scale and change the fonz size. But it becomes more obvious that it's not as easy as changing the size when looking at more complex views which should be scaled down:
+Now Labels might be a bad example for this, because one could just not use scale and change the font size to a smaller value. But it becomes more obvious that it's not as easy as changing the size when looking at more complex views which should be scaled down:
 
 ![](https://i.imgur.com/yPMtcRS.png)
 
