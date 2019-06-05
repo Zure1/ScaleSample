@@ -2,11 +2,11 @@
 
 This repo is created to help understanding this question: https://stackoverflow.com/questions/56438820/fill-a-grid-cell-with-a-scaled-view
 
-This is what the outcome of using scale="0.5" is:
+This is what the outcome of using scale="0.5" is (right column is not filled):
 
 ![](https://i.imgur.com/dJEODdi.png)
 
-And this if what I want to achieve:
+And this if what I want to achieve (fill the right column with a scaled down view):
 
 ![](https://i.imgur.com/OXURsE0.png)
 
