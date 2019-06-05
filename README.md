@@ -13,3 +13,5 @@ And this if what I want to achieve:
 Now Labels might be a bad example for this, because one could just not use scale and change the fonz size. But it becomes more obvious that it's not as easy as changing the size when looking at more complex views which should be scaled down:
 
 ![](https://i.imgur.com/yPMtcRS.png)
+
+So the question remains: How to fill a Cell with a scaled down View?
